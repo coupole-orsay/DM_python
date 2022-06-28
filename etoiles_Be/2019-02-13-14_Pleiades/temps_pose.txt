@@ -1,0 +1,6 @@
+sci_1 -> 60s
+sci_2 -> 60s
+sci_3 -> 90s
+sci_4 -> 60s
+sci_5 -> 60s
+sci_6 -> 60s
